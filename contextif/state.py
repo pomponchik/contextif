@@ -24,7 +24,7 @@ class ContextState:
 
     def __exit__(self, exception_type: Optional[Type[Exception]], exception_value: Optional[Exception], traceback: Optional[TracebackType]) -> bool:
         with self.lock:
-            self.flags.get().pop()
+            self.flags.get().pop()  # type: union-attr
             return False
 
 
