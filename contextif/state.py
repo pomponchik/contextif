@@ -20,7 +20,7 @@ class ContextState:
             if self.flags.get() is None:
                 self.flags.set([])
 
-            self.flags.get().append(True)
+            self.flags.get().append(True)  # type: union-attr
 
     def __exit__(self, exception_type: Optional[Type[Exception]], exception_value: Optional[Exception], traceback: Optional[TracebackType]) -> bool:
         with self.lock:
