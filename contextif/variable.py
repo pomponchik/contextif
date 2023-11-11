@@ -1,4 +1,4 @@
 from contextvars import ContextVar
 
 
-flags: ContextVar[list] = ContextVar('flags', default=None)
+flags: ContextVar[list[bool]] = ContextVar('flags', default=None)
