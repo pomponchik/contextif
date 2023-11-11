@@ -1,5 +1,5 @@
 from contextvars import ContextVar
-from typing import Callable, List, Optional, Type, Any
+from typing import Callable, List, Optional, Type, Literal, Any
 from threading import Lock
 from types import TracebackType
 
@@ -22,7 +22,7 @@ class ContextState:
 
             self.flags.get().append(True)  # type: ignore[union-attr]
 
-    def __exit__(self, exception_type: Optional[Type[Exception]], exception_value: Optional[Exception], traceback: Optional[TracebackType]) -> bool:
+    def __exit__(self, exception_type: Optional[Type[Exception]], exception_value: Optional[Exception], traceback: Optional[TracebackType]) -> Literal[False]:
         with self.lock:
             self.flags.get().pop()  # type: ignore[union-attr]
             return False
