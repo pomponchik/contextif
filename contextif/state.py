@@ -1,19 +1,30 @@
 from contextvars import ContextVar
-from typing import Callable, Any
+from typing import Callable, Optional, Type, Any
+from threading import Lock
+from types import TracebackType
 
-from contextif.variable import flag
+from contextif.variable import flags
 
 
 class ContextState:
-    def __init__(self, variable: ContextVar[bool] = flag) -> None:
-        self.flag = variable
+    def __init__(self, variable: ContextVar[list] = flags) -> None:
+        self.flags = variable
+        self.lock = Lock()
 
     def __call__(self, some_callable: Callable[[], Any], *args: Any, **kwargs: Any) -> Any:
-        if self.flag.get():
+        if self.flags.get():
             return some_callable(*args, **kwargs)
 
-    def set(self) -> None:
-        self.flag.set(True)
+    def __enter__(self) -> None:
+        with self.lock:
+            if self.flags.get() is None:
+                self.flags.set([])
+
+            self.flags.get().append(True)
+
+    def __exit__(self, exception_type: Optional[Type[Exception]], exception_value: Optional[Exception], traceback: Optional[TracebackType]) -> bool:
+        self.flags.get().pop()
+        return False
 
 
 state = ContextState()
