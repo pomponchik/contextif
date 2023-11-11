@@ -1,5 +1,5 @@
 from contextvars import ContextVar
-from typing import Callable, Optional, Type, Any
+from typing import Callable, List, Optional, Type, Any
 from threading import Lock
 from types import TracebackType
 
@@ -7,7 +7,7 @@ from contextif.variable import flags
 
 
 class ContextState:
-    def __init__(self, variable: ContextVar[list[bool]] = flags) -> None:
+    def __init__(self, variable: ContextVar[List[bool]] = flags) -> None:
         self.flags = variable
         self.lock = Lock()
 
