@@ -23,8 +23,9 @@ class ContextState:
             self.flags.get().append(True)
 
     def __exit__(self, exception_type: Optional[Type[Exception]], exception_value: Optional[Exception], traceback: Optional[TracebackType]) -> bool:
-        self.flags.get().pop()
-        return False
+        with self.lock:
+            self.flags.get().pop()
+            return False
 
 
 state = ContextState()
