@@ -7,7 +7,7 @@ from contextif.variable import flags
 
 
 class ContextState:
-    def __init__(self, variable: ContextVar[List[bool]] = flags) -> None:
+    def __init__(self, variable: ContextVar[Optional[List[bool]]] = flags) -> None:
         self.flags = variable
         self.lock = Lock()
 
