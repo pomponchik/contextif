@@ -1,5 +1,5 @@
 from contextvars import ContextVar
-from typing import List
+from typing import List, Optional
 
 
-flags: ContextVar[List[bool]] = ContextVar('flags', default=None)
+flags: ContextVar[Optional[List[bool]]] = ContextVar('flags', default=None)
