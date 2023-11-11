@@ -9,7 +9,7 @@ class ContextState:
         self.flag = variable
 
     def __call__(self, some_callable: Callable[[...], Any], args: Any, kwargs: Any) -> Any:
-        if self.flag.get()
+        if self.flag.get():
             return some_callable(*args, **kwargs)
 
     def set(self) -> None:
