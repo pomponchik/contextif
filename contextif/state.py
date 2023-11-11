@@ -1,5 +1,9 @@
 from contextvars import ContextVar
-from typing import Callable, List, Optional, Type, Literal, Any
+from typing import Callable, List, Optional, Type, Any
+try:
+    from typing import Literal
+except ImportError:
+    from typing_extensions import Literal
 from threading import Lock
 from types import TracebackType
 
