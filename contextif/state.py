@@ -8,7 +8,7 @@ class ContextState:
     def __init__(self, variable: ContextVar[bool] = flag) -> None:
         self.flag = variable
 
-    def __call__(self, some_callable: Callable[[], Any], args: Any, kwargs: Any) -> Any:
+    def __call__(self, some_callable: Callable[[], Any], *args: Any, **kwargs: Any) -> Any:
         if self.flag.get():
             return some_callable(*args, **kwargs)
 
