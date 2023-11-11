@@ -1,3 +1,5 @@
+import pytest
+
 from contextif import state
 
 
@@ -22,3 +24,12 @@ def test_not_set_context_and_run_function():
     state(function)
 
     assert not flag
+
+
+def test_no_hide_exceptions():
+    def function():
+        raise Exception
+
+    with pytest.raises(Exception):
+        with state:
+            state(function)
