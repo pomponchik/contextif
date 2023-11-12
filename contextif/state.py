@@ -13,7 +13,7 @@ class ContextState:
         self.flags = variable
         self.lock = Lock()
         if builtin:
-            builtins.state = self
+            builtins.state = self  # type: ignore[attr-defined]
 
     def __call__(self, some_callable: Callable[[], Any], *args: Any, **kwargs: Any) -> Any:
         if self.flags.get():
