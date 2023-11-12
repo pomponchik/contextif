@@ -7,5 +7,25 @@
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-# contextif
-Run the function only in a specific context
+# contextif: run the function only in a specific context
+
+Sometimes we may need to run a function only if it happens in a strictly defined context. In this case, we can use this mini library.
+
+Install it:
+
+```bash
+pip install contextif
+```
+
+And use:
+
+```python
+from contextif import state
+
+with state:
+    state(print, 'hello,', 'world!')  # It will be printed.
+
+state(print, "it's me, Mario!")  # It won't.
+```
+
+Using `state` as a function, you can pass another function and arguments to it there. It will be called only if it happens in a context created also using `state`. The function will not be called out of context.
