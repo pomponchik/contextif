@@ -12,7 +12,7 @@ description = 'Run the function only in a specific context'
 readme = "README.md"
 requires-python = ">=3.7"
 dependencies = [
-    "typing-extensions==4.7.0",
+    "typing-extensions<=4.7.0",
 ]
 classifiers = [
     "Operating System :: OS Independent",
@@ -30,9 +30,6 @@ classifiers = [
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Libraries',
 ]
-
-[tool.setuptools.packages.find]
-where = ["contextif"]
 
 [project.urls]
 'Source' = 'https://github.com/pomponchik/contextif'
