@@ -29,3 +29,5 @@ state(print, "it's me, Mario!")  # It won't.
 ```
 
 Using `state` as a function, you can pass another function and arguments to it there. It will be called only if it happens in a context created also using `state`. The function will not be called out of context.
+
+For convenience, after the first import of `state`, this variable becomes builtin and you can access it in other modules of your program without importing.

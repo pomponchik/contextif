@@ -1,3 +1,4 @@
+import builtins
 from contextvars import ContextVar
 from typing import Callable, List, Optional, Type, Any
 from typing_extensions import Literal
@@ -8,9 +9,11 @@ from contextif.variable import flags
 
 
 class ContextState:
-    def __init__(self, variable: ContextVar[Optional[List[bool]]] = flags) -> None:
+    def __init__(self, variable: ContextVar[Optional[List[bool]]] = flags, builtin: bool = True) -> None:
         self.flags = variable
         self.lock = Lock()
+        if builtin:
+            builtins.state = self
 
     def __call__(self, some_callable: Callable[[], Any], *args: Any, **kwargs: Any) -> Any:
         if self.flags.get():
