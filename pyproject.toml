@@ -1,21 +1,21 @@
 [build-system]
-requires = ["setuptools==68.0.0"]
-build-backend = "setuptools.build_meta"
+requires = ['setuptools==68.0.0']
+build-backend = 'setuptools.build_meta'
 
 [project]
-name = "contextif"
-version = "0.0.3"
+name = 'contextif'
+version = '0.0.3'
 authors = [
-  { name="Evgeniy Blinov", email="zheni-b@yandex.ru" },
+  { name='Evgeniy Blinov', email='zheni-b@yandex.ru' },
 ]
 description = 'Run the function only in a specific context'
-readme = "README.md"
-requires-python = ">=3.7"
+readme = 'README.md'
+requires-python = '>=3.7'
 dependencies = [
-    "typing-extensions",
+    'typing-extensions',
 ]
 classifiers = [
-    "Operating System :: OS Independent",
+    'Operating System :: OS Independent',
     'Operating System :: MacOS :: MacOS X',
     'Operating System :: Microsoft :: Windows',
     'Operating System :: POSIX',
