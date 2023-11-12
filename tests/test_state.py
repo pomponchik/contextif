@@ -1,3 +1,6 @@
+import io
+from contextlib import redirect_stdout
+
 import pytest
 
 from contextif import state
@@ -28,8 +31,16 @@ def test_not_set_context_and_run_function():
 
 def test_no_hide_exceptions():
     def function():
-        raise Exception
+        raise ValueError
 
-    with pytest.raises(Exception):
+    with pytest.raises(ValueError):
         with state:
             state(function)
+
+
+def test_builtin():
+    with io.StringIO() as buffer, redirect_stdout(buffer):
+        subglobals = globals().copy()
+        subglobals.pop('state')
+        exec('with state: state(print, "kek", end="")', {'print': print})
+        assert buffer.getvalue() == 'kek'
