@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="logo_3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.61360051"
+     inkscape:cx="360.98405"
+     inkscape:cy="429.4325"
+     inkscape:window-width="1512"
+     inkscape:window-height="816"
+     inkscape:window-x="77"
+     inkscape:window-y="45"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="197.19671"
+       y="609.51709"
+       width="405.80149"
+       height="123.85909"
+       id="rect17" />
+    <rect
+       x="135.26716"
+       y="521.51195"
+       width="374.83672"
+       height="187.41836"
+       id="rect16" />
+    <linearGradient
+       id="linearGradient14"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#010104;stop-opacity:0.768924;"
+         offset="0"
+         id="stop13" />
+      <stop
+         style="stop-color:#28a3f3;stop-opacity:0;"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#28a3f3;stop-opacity:0.76892401;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#28a3f3;stop-opacity:0;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#28a3f3;stop-opacity:0.76892401;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#28a3f3;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="43.834377"
+       y1="43.534142"
+       x2="96.37558"
+       y2="48.938381"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="76.259804"
+       y1="51.940735"
+       x2="116.49136"
+       y2="84.966637"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient8"
+       x1="83.765694"
+       y1="72.656982"
+       x2="133.60478"
+       y2="140.81042"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient9"
+       x1="84.666397"
+       y1="91.571815"
+       x2="99.978409"
+       y2="163.32809"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient10"
+       x1="79.562393"
+       y1="107.78453"
+       x2="69.354393"
+       y2="165.42973"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient11"
+       x1="74.758629"
+       y1="112.28806"
+       x2="56.444267"
+       y2="160.62598"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient12"
+       x1="66.952507"
+       y1="109.58595"
+       x2="55.843796"
+       y2="126.09889"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient13"
+       x1="43.233906"
+       y1="54.342617"
+       x2="57.044739"
+       y2="77.160515"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:url(#linearGradient5);fill-opacity:1;stroke-width:0.264583"
+       id="path1"
+       cx="61.998619"
+       cy="67.102623"
+       rx="27.77178"
+       ry="29.573193" />
+    <ellipse
+       style="fill:url(#linearGradient7);fill-opacity:1;stroke-width:0.226362"
+       id="path1-8"
+       cx="84.186333"
+       cy="77.419548"
+       rx="23.418365"
+       ry="25.670132" />
+    <ellipse
+       style="fill:url(#linearGradient8);fill-opacity:1;stroke-width:0.187332"
+       id="path1-8-5"
+       cx="90.663925"
+       cy="98.359108"
+       rx="18.914833"
+       ry="21.767071" />
+    <ellipse
+       style="fill:url(#linearGradient9);fill-opacity:1;stroke-width:0.130093"
+       id="path1-8-5-3"
+       cx="83.655426"
+       cy="114.97536"
+       rx="13.360477"
+       ry="14.861655" />
+    <ellipse
+       style="fill:url(#linearGradient10);fill-opacity:1;stroke-width:0.093876"
+       id="path1-8-5-2"
+       cx="70.664513"
+       cy="121.5712"
+       rx="9.3072987"
+       ry="11.108712" />
+    <ellipse
+       style="fill:url(#linearGradient11);fill-opacity:1;stroke-width:0.0663948"
+       id="path1-8-5-7"
+       cx="61.297211"
+       cy="120.6724"
+       rx="6.7552972"
+       ry="7.6560044" />
+    <ellipse
+       style="fill:url(#linearGradient12);fill-opacity:1;stroke-width:0.0371885"
+       id="path1-8-5-8"
+       cx="59.259357"
+       cy="113.12335"
+       rx="3.6028247"
+       ry="4.5035319" />
+    <ellipse
+       style="fill:url(#linearGradient13);fill-opacity:1;stroke-width:0.264583"
+       id="path3"
+       cx="47.737431"
+       cy="64.550621"
+       rx="4.5035319"
+       ry="5.4042377" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text16"
+       style="white-space:pre;shape-inside:url(#rect16);fill:#3c28ed;fill-opacity:0.768924;-inkscape-font-specification:'Kohinoor Telugu';font-family:'Kohinoor Telugu';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text17"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';white-space:pre;shape-inside:url(#rect17);fill:#4828ed;fill-opacity:0.768924"><tspan
+         x="197.19727"
+         y="908.54437"
+         id="tspan2"><tspan
+           dx="0 134.0625"
+           id="tspan1">СЩ</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';white-space:pre;inline-size:186.757;fill:#4828ed;fill-opacity:0.768924;stroke-width:0.264583"
+       x="40.532616"
+       y="157.38727"
+       id="text18"><tspan
+         x="40.532616"
+         y="157.38727"
+         id="tspan4"><tspan
+           dx="0 28.092278 33.832722 35.509174 24.23156 26.771523 29.870361"
+           id="tspan3">CONTEXT</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9617px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
+       x="85.049744"
+       y="55.029903"
+       id="text19"
+       transform="scale(1.0888413,0.91840748)"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-size:20.9617px;fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
+         x="85.049744"
+         y="55.029903">CONTEXT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2223px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.264583"
+       x="160.83685"
+       y="78.909233"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="stroke-width:0.264583"
+         x="160.83685"
+         y="78.909233">IF</tspan></text>
+  </g>
+</svg>
