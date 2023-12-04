@@ -242,28 +242,5 @@
          id="tspan4"><tspan
            dx="0 28.092278 33.832722 35.509174 24.23156 26.771523 29.870361"
            id="tspan3">CONTEXT</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9617px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
-       x="85.049744"
-       y="55.029903"
-       id="text19"
-       transform="scale(1.0888413,0.91840748)"><tspan
-         sodipodi:role="line"
-         id="tspan19"
-         style="font-size:20.9617px;fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
-         x="85.049744"
-         y="55.029903">CONTEXT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2223px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.264583"
-       x="160.83685"
-       y="78.909233"
-       id="text20"><tspan
-         sodipodi:role="line"
-         id="tspan20"
-         style="stroke-width:0.264583"
-         x="160.83685"
-         y="78.909233">IF</tspan></text>
   </g>
 </svg>
