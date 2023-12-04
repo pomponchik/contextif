@@ -228,29 +228,30 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text16"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';white-space:pre;shape-inside:url(#rect16);fill:#3c28ed;fill-opacity:0.768924" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';white-space:pre;shape-inside:url(#rect16);display:inline;fill:#3c28ed;fill-opacity:0.768924" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9617px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
-       x="58.120689"
-       y="19.816936"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9617px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#286ded;fill-opacity:0.768924;stroke-width:0.196516"
+       x="57.328659"
+       y="23.572987"
        id="text19"
        transform="scale(1.0888413,0.91840748)"><tspan
          sodipodi:role="line"
          id="tspan19"
-         style="font-size:20.9617px;fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
-         x="58.120689"
-         y="19.816936">CONTEXT</tspan></text>
+         style="font-size:20.9617px;fill:#286ded;fill-opacity:0.768924;stroke-width:0.196516"
+         x="57.328659"
+         y="23.572987">CONTEXT</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2223px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.264583"
-       x="131.51538"
-       y="46.569382"
-       id="text20"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.4951px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#2882ed;fill-opacity:0.768924;stroke-width:0.876513"
+       x="78.715538"
+       y="95.729996"
+       id="text20"
+       transform="scale(1.0278211,0.97293196)"><tspan
          sodipodi:role="line"
          id="tspan20"
-         style="stroke-width:0.264583"
-         x="131.51538"
-         y="46.569382">IF</tspan></text>
+         style="fill:#2882ed;fill-opacity:0.768924;stroke-width:0.876513"
+         x="78.715538"
+         y="95.729996">IF</tspan></text>
   </g>
 </svg>
