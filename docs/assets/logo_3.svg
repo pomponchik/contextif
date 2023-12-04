@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="159mm"
+   height="105mm"
+   viewBox="0 0 159 105"
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
@@ -26,26 +26,26 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.61360051"
      inkscape:cx="360.98405"
-     inkscape:cy="429.4325"
-     inkscape:window-width="1512"
-     inkscape:window-height="816"
+     inkscape:cy="690.18847"
+     inkscape:window-width="1872"
+     inkscape:window-height="1130"
      inkscape:window-x="77"
-     inkscape:window-y="45"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <rect
-       x="197.19671"
+       x="197.19672"
        y="609.51709"
-       width="405.80149"
+       width="405.80148"
        height="123.85909"
        id="rect17" />
     <rect
-       x="135.26716"
-       y="521.51195"
-       width="374.83672"
-       height="187.41836"
+       x="135.26717"
+       y="521.51196"
+       width="374.83673"
+       height="187.41837"
        id="rect16" />
     <linearGradient
        id="linearGradient14"
@@ -91,7 +91,8 @@
        y1="43.534142"
        x2="96.37558"
        y2="48.938381"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-29.321466,-32.339853)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6"
@@ -100,7 +101,8 @@
        y1="51.940735"
        x2="116.49136"
        y2="84.966637"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-29.321466,-32.339853)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6"
@@ -109,7 +111,8 @@
        y1="72.656982"
        x2="133.60478"
        y2="140.81042"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-29.321466,-32.339853)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6"
@@ -118,7 +121,8 @@
        y1="91.571815"
        x2="99.978409"
        y2="163.32809"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-29.321466,-32.339853)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6"
@@ -127,7 +131,8 @@
        y1="107.78453"
        x2="69.354393"
        y2="165.42973"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-29.321466,-32.339853)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6"
@@ -136,7 +141,8 @@
        y1="112.28806"
        x2="56.444267"
        y2="160.62598"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-29.321466,-32.339853)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6"
@@ -145,7 +151,8 @@
        y1="109.58595"
        x2="55.843796"
        y2="126.09889"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-29.321466,-32.339853)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14"
@@ -154,7 +161,8 @@
        y1="54.342617"
        x2="57.044739"
        y2="77.160515"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-29.321466,-32.339853)" />
   </defs>
   <g
      inkscape:label="Слой 1"
@@ -163,86 +171,86 @@
     <ellipse
        style="fill:url(#linearGradient5);fill-opacity:1;stroke-width:0.264583"
        id="path1"
-       cx="61.998619"
-       cy="67.102623"
+       cx="32.677155"
+       cy="34.762772"
        rx="27.77178"
        ry="29.573193" />
     <ellipse
        style="fill:url(#linearGradient7);fill-opacity:1;stroke-width:0.226362"
        id="path1-8"
-       cx="84.186333"
-       cy="77.419548"
+       cx="54.864868"
+       cy="45.079697"
        rx="23.418365"
        ry="25.670132" />
     <ellipse
        style="fill:url(#linearGradient8);fill-opacity:1;stroke-width:0.187332"
        id="path1-8-5"
-       cx="90.663925"
-       cy="98.359108"
+       cx="61.342461"
+       cy="66.019257"
        rx="18.914833"
        ry="21.767071" />
     <ellipse
        style="fill:url(#linearGradient9);fill-opacity:1;stroke-width:0.130093"
        id="path1-8-5-3"
-       cx="83.655426"
-       cy="114.97536"
+       cx="54.333961"
+       cy="82.635506"
        rx="13.360477"
        ry="14.861655" />
     <ellipse
        style="fill:url(#linearGradient10);fill-opacity:1;stroke-width:0.093876"
        id="path1-8-5-2"
-       cx="70.664513"
-       cy="121.5712"
+       cx="41.343048"
+       cy="89.231346"
        rx="9.3072987"
        ry="11.108712" />
     <ellipse
        style="fill:url(#linearGradient11);fill-opacity:1;stroke-width:0.0663948"
        id="path1-8-5-7"
-       cx="61.297211"
-       cy="120.6724"
+       cx="31.975744"
+       cy="88.33255"
        rx="6.7552972"
        ry="7.6560044" />
     <ellipse
        style="fill:url(#linearGradient12);fill-opacity:1;stroke-width:0.0371885"
        id="path1-8-5-8"
-       cx="59.259357"
-       cy="113.12335"
+       cx="29.937891"
+       cy="80.783501"
        rx="3.6028247"
        ry="4.5035319" />
     <ellipse
        style="fill:url(#linearGradient13);fill-opacity:1;stroke-width:0.264583"
        id="path3"
-       cx="47.737431"
-       cy="64.550621"
+       cx="18.415964"
+       cy="32.21077"
        rx="4.5035319"
        ry="5.4042377" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text16"
-       style="white-space:pre;shape-inside:url(#rect16);fill:#3c28ed;fill-opacity:0.768924;-inkscape-font-specification:'Kohinoor Telugu';font-family:'Kohinoor Telugu';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';white-space:pre;shape-inside:url(#rect16);fill:#3c28ed;fill-opacity:0.768924" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9617px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
-       x="85.049744"
-       y="55.029903"
+       x="58.120689"
+       y="19.816936"
        id="text19"
        transform="scale(1.0888413,0.91840748)"><tspan
          sodipodi:role="line"
          id="tspan19"
          style="font-size:20.9617px;fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
-         x="85.049744"
-         y="55.029903">CONTEXT</tspan></text>
+         x="58.120689"
+         y="19.816936">CONTEXT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2223px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.264583"
-       x="160.83685"
-       y="78.909233"
+       x="131.51538"
+       y="46.569382"
        id="text20"><tspan
          sodipodi:role="line"
          id="tspan20"
          style="stroke-width:0.264583"
-         x="160.83685"
-         y="78.909233">IF</tspan></text>
+         x="131.51538"
+         y="46.569382">IF</tspan></text>
   </g>
 </svg>
