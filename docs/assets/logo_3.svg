@@ -223,24 +223,26 @@
        style="white-space:pre;shape-inside:url(#rect16);fill:#3c28ed;fill-opacity:0.768924;-inkscape-font-specification:'Kohinoor Telugu';font-family:'Kohinoor Telugu';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" />
     <text
        xml:space="preserve"
-       transform="scale(0.26458333)"
-       id="text17"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';white-space:pre;shape-inside:url(#rect17);fill:#4828ed;fill-opacity:0.768924"><tspan
-         x="197.19727"
-         y="908.54437"
-         id="tspan2"><tspan
-           dx="0 134.0625"
-           id="tspan1">СЩ</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9617px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
+       x="85.049744"
+       y="55.029903"
+       id="text19"
+       transform="scale(1.0888413,0.91840748)"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-size:20.9617px;fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.196516"
+         x="85.049744"
+         y="55.029903">CONTEXT</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';white-space:pre;inline-size:186.757;fill:#4828ed;fill-opacity:0.768924;stroke-width:0.264583"
-       x="40.532616"
-       y="157.38727"
-       id="text18"><tspan
-         x="40.532616"
-         y="157.38727"
-         id="tspan4"><tspan
-           dx="0 28.092278 33.832722 35.509174 24.23156 26.771523 29.870361"
-           id="tspan3">CONTEXT</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2223px;font-family:'Kohinoor Telugu';-inkscape-font-specification:'Kohinoor Telugu';fill:#ed28d0;fill-opacity:0.768924;stroke-width:0.264583"
+       x="160.83685"
+       y="78.909233"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="stroke-width:0.264583"
+         x="160.83685"
+         y="78.909233">IF</tspan></text>
   </g>
 </svg>
