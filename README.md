@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/pomponchik/contextif/develop/docs/assets/logo_3.svg)
+
 [![Downloads](https://static.pepy.tech/badge/contextif/month)](https://pepy.tech/project/contextif)
 [![Downloads](https://static.pepy.tech/badge/contextif)](https://pepy.tech/project/contextif)
 [![codecov](https://codecov.io/gh/pomponchik/contextif/graph/badge.svg?token=krgDghlvu7)](https://codecov.io/gh/pomponchik/contextif)
