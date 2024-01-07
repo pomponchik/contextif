@@ -25,7 +25,7 @@ jobs:
 
     - name: Run mypy
       shell: bash
-      run: mypy contextif --strict --implicit-reexport
+      run: mypy contextif --strict
 
     - name: Run ruff
       shell: bash

@@ -4,7 +4,7 @@ build-backend = 'setuptools.build_meta'
 
 [project]
 name = 'contextif'
-version = '0.0.4'
+version = '0.0.5'
 authors = [
   { name='Evgeniy Blinov', email='zheni-b@yandex.ru' },
 ]
@@ -30,6 +30,9 @@ classifiers = [
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Libraries',
 ]
+
+[tool.setuptools.package-data]
+"contextif" = ["py.typed"]
 
 [project.urls]
 'Source' = 'https://github.com/pomponchik/contextif'
