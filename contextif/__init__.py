@@ -1,1 +1,1 @@
-from contextif.state import state  # noqa: F401
+from contextif.state import state as state  # noqa: F401
